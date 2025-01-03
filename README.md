@@ -14,3 +14,7 @@ Day 2:Linked List
   <li>Reverse a LL</li>
   <li>Check Palindrome</li>
 </ul>
+Day 3:Linked List
+<ul>
+  <li>Cycle Detect</li>
+</ul>
