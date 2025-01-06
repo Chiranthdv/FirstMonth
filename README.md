@@ -18,10 +18,10 @@ Day 3:Linked List
 <ul>
   <li>Cycle Detect</li>
 </ul>
-Day 4:Practice Above Question
+Day 4:Practice Above Question <br/>
 Day 5:Revising oops
 <ul>
   <li>Flight booking system using inheritance</li>
   <li>Weather monitoring system using inheritance</li>
-</ul>
+</ul><br/>
 Day 6: Reading theory concepts
